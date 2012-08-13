@@ -148,6 +148,8 @@ sess_destroyed (Event_Type et, Object *obj, Any_Type regarg, Any_Type callarg)
       st.num_conns += priv->num_conns;
       ++st.num_completed_since_last_sample;
       ++st.num_completed;
+      if (verbose)
+        printf("Connection lifetime = %-8.1f\n", delta);
       st.lifetime_sum += delta;
     }
 
