@@ -1,5 +1,9 @@
 -*-Mode: outline-*-
 
+* Fork notes
+
+This is exactly 'httperf' from the origional source, with the excetion that it prints "Connection lifetime =" for each connection made when in verbose mode. I have made this change for two reasons. First, I've used a version of httperf that had this modification and found it very useful. Second, see [httperfrb-grapher](http://github.com/rubyops/httperfrb-grapher), which uses this output.
+
 * Building httperf
 
 This release of httperf is using the standard GNU configuration
