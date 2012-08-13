@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/107/trunk/httperf/man
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/33/trunk/httperf/man/Makefile.am
+END
+httperf.1
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/107/trunk/httperf/man/httperf.1
+END

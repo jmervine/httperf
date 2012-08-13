@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/137/trunk/httperf/src/stat
+END
+basic.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/137/trunk/httperf/src/stat/basic.c
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/137/trunk/httperf/src/stat/stats.h
+END
+print_reply.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/137/trunk/httperf/src/stat/print_reply.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/trunk/httperf/src/stat/Makefile.am
+END
+sess_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/137/trunk/httperf/src/stat/sess_stat.c
+END

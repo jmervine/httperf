@@ -1,0 +1,28 @@
+David Mosberger
+  main sources
+  wsesslog crash fix
+
+Martin Arlitt
+  SSL support
+  timer reset fix
+
+Ted Bullock
+  compiler warning fixes
+  gnu auto tool build system
+  man page --wset typo fix regarding --uri
+  unallocated timer memory leak fix
+
+Tai Jin
+  zero-length content fix
+
+Stephane Eranian
+  wlog URI generator
+
+Richard Carter
+  wsesslog workload generator
+
+Andrew Hately
+  variable rates of period between sessions/requests
+
+Adrian Chadd
+  port to libevent

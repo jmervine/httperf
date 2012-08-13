@@ -1,0 +1,35 @@
+K 10
+svn:ignore
+V 282
+*.tar.gz
+*.bak
+*.orig
+*.rej
+*.a
+*.o
+*.core
+*.sav
+*~
+httperf
+idleconn
+Makefile
+Makefile.in
+archive
+autom4te*.cache
+automake
+aclocal.m4
+autom4te.cache
+build-stamp
+config.cache
+config.guess
+config.h
+config.h.in
+config.log
+config.status
+config.sub
+configure
+configure-stamp
+.deps
+.libs
+
+END
