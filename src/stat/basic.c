@@ -228,6 +228,9 @@ conn_destroyed(Event_Type et, Object * obj, Any_Type reg_arg, Any_Type c_arg)
 
 	if (s->basic.num_calls_completed > 0) {
 		lifetime = timer_now() - s->basic.time_connect_start;
+    if (verbose > 0)
+    fprintf (stdout, "Connection lifetime = %-8.2f\n", lifetime*1000);
+
 		basic.conn_lifetime_sum += lifetime;
 		basic.conn_lifetime_sum2 += SQUARE(lifetime);
 		if (lifetime < basic.conn_lifetime_min)
