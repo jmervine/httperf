@@ -6,7 +6,7 @@ This is exactly httperf from the origional source, with the excetion
 that it prints "Connection lifetime =" for each connection made when 
 in verbose mode. I have made this change for two reasons. First, I've 
 used a version of httperf that had this modification and found it very 
-useful. Second, see http://mervine.net/gems/httperfrb, which uses 
+useful. Second, see https://github.com/jmervine/httperfrb, which uses 
 this output.
 
 * Building httperf
